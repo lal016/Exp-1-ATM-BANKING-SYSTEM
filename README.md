@@ -1,1 +1,7 @@
 # Exp-1-ATM-BANKING-SYSTEM
+# AIM:
+# SRS (Procedure):
+# DIAGRAMS:
+
+
+# RESULT:
